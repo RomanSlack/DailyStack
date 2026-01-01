@@ -1,1 +1,1 @@
-npx expo start --web --clear^C
+npx expo start --web --clear
